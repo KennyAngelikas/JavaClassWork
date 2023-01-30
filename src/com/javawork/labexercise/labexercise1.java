@@ -1,14 +1,12 @@
-package JavaClassWork.src.com.javawork;
+package JavaClassWork.src.com.javawork.labexercise;
 // 1/30/22
 // Kenneth Angelikas
 // Lab Exercise
-public class labexercise {
-
+public class labexercise1{
     static double find_tax(double subtotal, double TAX_RATE) {
         double tax = subtotal * TAX_RATE;
         return tax;
     }
-
     static double find_tip(double subtotal, double TIP_RATE){
         double tip = subtotal * TIP_RATE;
         return tip;
@@ -34,3 +32,4 @@ public class labexercise {
 
     }
 }
+

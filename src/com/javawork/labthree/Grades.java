@@ -28,6 +28,7 @@ public class Grades {
 
         int[] intArray = new int[]{hwWeight,hwAssign,averageHw,ldHw,lattendHw};
 
+        return int[] intArray;
     }
 
 
